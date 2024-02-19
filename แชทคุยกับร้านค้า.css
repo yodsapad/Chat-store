@@ -69,8 +69,5 @@ body{margin-top:20px;}
 }
 
 .card {
-    height: 850px; /* ปรับความสูงของการ์ด */
-}
-.chat-messages {
- /* Adjust as needed */
+    height: 1380px; /* ปรับความสูงของการ์ด */
 }
